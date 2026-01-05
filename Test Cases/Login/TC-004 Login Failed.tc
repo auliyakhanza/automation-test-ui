@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-004 Login Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f47568b-a05a-414d-a829-7bc23e051c0f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b49cdb3-ac09-492d-b555-6895e5b32389</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32c5a098-c9a8-426d-a8cd-c597c4bd00d4</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5f61dac-957b-4af2-a373-9b379746a813</id>
+      <masked>false</masked>
+      <name>Expected_Error</name>
+   </variable>
+</TestCaseEntity>
